@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8df1e936-5f1a-4adb-85c0-fa403ca6c171" name="变更" comment="." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HobgDoS3lf4Caf1ESbx7WkECGd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.language"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8df1e936-5f1a-4adb-85c0-fa403ca6c171" name="变更" comment="" />
+      <created>1668954495730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668954495730</updated>
+      <workItem from="1668954497112" duration="10539000" />
+      <workItem from="1668999780374" duration="10170000" />
+      <workItem from="1669645050266" duration="6637000" />
+    </task>
+    <task id="LOCAL-00001" summary="&#10;abstract class Animal {&#10;    protected String name;&#10;    protected int age;&#10;    protected String sex;&#10;    protected double price;&#10;&#10;    public Animal(String name, int age, String sex, double price) {&#10;        this.name = name;&#10;        this.age = age;&#10;        this.sex = sex;&#10;        this.price = price;&#10;    }&#10;&#10;    public abstract String toString();&#10;}">
+      <created>1669647941518</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669647941518</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&#10;abstract class Animal {&#10;    protected String name;&#10;    protected int age;&#10;    protected String sex;&#10;    protected double price;&#10;&#10;    public Animal(String name, int age, String sex, double price) {&#10;        this.name = name;&#10;        this.age = age;&#10;        this.sex = sex;&#10;        this.price = price;&#10;    }&#10;&#10;    public abstract String toString();&#10;}">
+      <created>1669648502709</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669648502709</updated>
+    </task>
+    <task id="LOCAL-00003" summary=".">
+      <created>1669649861938</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669649861938</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&#10;abstract class Animal {&#10;    protected String name;&#10;    protected int age;&#10;    protected String sex;&#10;    protected double price;&#10;&#10;    public Animal(String name, int age, String sex, double price) {&#10;        this.name = name;&#10;        this.age = age;&#10;        this.sex = sex;&#10;        this.price = price;&#10;    }&#10;&#10;    public abstract String toString();&#10;}" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+</project>
